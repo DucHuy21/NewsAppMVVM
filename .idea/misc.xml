@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NewsAppMVVM/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/NewsAppMVVM/app/src/main/res/layout/activity_news.xml" value="0.2" />
+        <entry key="..\:/NewsAppMVVM/app/src/main/res/layout/fragment_article_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewsAppMVVM/app/src/main/res/layout/fragment_breaking_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewsAppMVVM/app/src/main/res/layout/fragment_save_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewsAppMVVM/app/src/main/res/layout/fragment_search_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewsAppMVVM/app/src/main/res/layout/item_article_preview.xml" value="0.25416666666666665" />
+        <entry key="..\:/NewsAppMVVM/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.155" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/add.xml" value="0.1365" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/border_radius.xml" value="0.155" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/design_btn.xml" value="0.155" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/design_edt.xml" value="0.155" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/design_edt_1.xml" value="0.2295" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/ic_acount_default.xml" value="0.155" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.155" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1335" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1825" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/ic_baseline_newspaper_24.xml" value="0.154" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/ic_baseline_public_24.xml" value="0.1975" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.154" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/ic_baseline_widgets_24.xml" value="0.209" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.155" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/activity_news.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/design_edt.xml" value="0.253125" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/du_bi.xml" value="0.253125" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_article_news.xml" value="0.264" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_breaking_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_education.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_giao_duc.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_login_news.xml" value="0.1" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_menu_news.xml" value="0.190625" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_register_news.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_save_news.xml" value="0.264" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_search_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/fragment_sign_up_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/item_article_preview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/item_education.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/item_law.xml" value="0.253125" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/item_one.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/item_politics.xml" value="0.253125" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/item_society.xml" value="0.2076923076923077" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/item_sport.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/item_television.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/layout/lay_out.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/Downloads/NewsApp-main/app/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
